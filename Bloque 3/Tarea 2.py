@@ -1,0 +1,2 @@
+nom=input("")
+print(nom)
