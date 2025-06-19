@@ -1,0 +1,5 @@
+Ana,15
+Luis,9
+Carlos,18
+María,7
+José,13
